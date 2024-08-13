@@ -1,10 +1,12 @@
 .carrosel-título{
     
-    background-color: white;
-    color: orange;
-    text-aling: center;
-    font-size: 10px;
+    background-color: var(--branco);
+    color: var(--laranja);
+    text-align: center;
+    font-size: 18px;
     font-weight: 700;
+    text-transform: uppercase;
+    padding: 1em;
     
 
 
