@@ -12,8 +12,8 @@ align-items: center;
     padding: 0.5em;
 }
 .lista-titulo{
-    background-color: #ffffff;
-    color: #eb9b00;
+    background-color: var(--branco);
+    color: var(--laranja);
 }
 .menu-hamburguer{
 width: 24px;
