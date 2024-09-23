@@ -1,6 +1,7 @@
 @import url(header.css);
 @import url(banner.css);
 @import url(carrosel.css);
+@import url(topicos.css);
 :root{
     --cor-de-fundo--:#ebecee;
     --branco: #FFFFFF;
@@ -12,3 +13,4 @@
 body{
     font-family: "Poppins", sans-serif;
 }
+

@@ -55,6 +55,16 @@
 }
 
 .botoes{
-    align-items: center;
     display: flex;
+}
+.botao-ancora{
+    background-color: var(--laranja);
+    padding: 1em 2.2em;
+    color: var(--branco);
+    font-weight: 700;
+    text-decoration: none;
+}
+.card-botoes{
+    display: flex;
+    justify-content: space-between;
 }
